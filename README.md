@@ -1,9 +1,37 @@
-# Problem Statement
+# Birthday Calendar
 
-John, a very good friend of mine is having his birthday today but I didn't know because he didn't tell me. How can I have a system that will remind me of a friend's birthday? That's what Birthday Calendar is for.
+A Birthday Notification App.
 
-# How Will It Work?
+We've all forgotten our friends and family birthday at least once, even Facebook notifications aren't enough (what if they aren't on Facebook or you didn't bother checking Facebook), what if they themselves never posted their own Birthday beforehand or you simply just forgot about it.
 
-1. A user registers and enters the birthday.
-2. A user can create any group and all members of that group will get notified of every birthday in the group.
-3. A user can share his birthday details with another user and get notified.
+Birthday Calendar is here to address this issue, Here's how it works
+
+1. You register on the application.
+1. You store your friends birthday dates.
+1. You get notified when it's their birthday
+
+* You can also create a group of people and all the members of the group will be notfied when it's each other birthdays.
+* You can share your birthday details with friends so they don't forget the date.
+* You can Integrate the application with Google Calendar so you get notified there too.
+
+
+* `my thoughts tho` Automatic extraction & saving of friends birthday dates from socials like Facebook directly into the application.
+
+## Current Progress
+* Written README file 😁
+
+## TODO
+* Build User Registration & Authentication
+* Build User Dashboard & Key functionalities
+* Integrating Google Calendar
+
+
+* `also my thoughts` monetization 🤗
+* `more thoughts` mobile app
+
+## Authors
+* [GeekTutor](https://github.com/geektutor)
+* [LordGhostX](https://github.com/LordGhostX)
+
+## License
+* MIT
